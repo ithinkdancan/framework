@@ -1,0 +1,19 @@
+{
+    "name": "ithinkdancan/framework",
+    "description": "Springbox Themosis Framework Classes",
+    "require": {
+        "php": ">=5.4"
+    },
+    "authors": [
+        {
+            "name": "Michael Redding",
+            "email": "Michael.Redding@springbox.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Springbox": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
