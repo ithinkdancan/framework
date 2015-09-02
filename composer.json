@@ -1,8 +1,9 @@
 {
-    "name": "ithinkdancan/framework",
+    "name": "springbox/framework",
     "description": "Springbox Themosis Framework Classes",
     "require": {
-        "php": ">=5.4"
+        "php": ">=5.4",
+        "illuminate/database": "^5.1"
     },
     "authors": [
         {
