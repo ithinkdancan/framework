@@ -14,6 +14,5 @@
         "psr-0": {
             "Springbox": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
