@@ -11,8 +11,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "Springbox": "src"
+        "psr-4": {
+            "Springbox\\": "src"
         }
     }
 }
